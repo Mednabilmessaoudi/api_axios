@@ -1,0 +1,24 @@
+.div{
+background-color: black;
+color: white;
+font-size: 1 rem;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+height: 800px;
+width: 100%;
+display: block;
+justify-content: space-around;
+
+
+
+}
+
+
+
+.list{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    gap: 3;
+}
